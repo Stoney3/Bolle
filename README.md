@@ -15,25 +15,32 @@
 ## 目录
 
 * [1.计算机科学](#cs)
-
-
+  * [1.1编程语言](#pl)
+    * [1.1.1 C++](#cpp)
+    * [1.1.2 Python](#py)
+    * [1.1.3 Java](#java)
+  * [1.2 数据库](#database)
+  * [1.3 机器学习](#ml)
+  * [1.4 Web](#web)
+  * [1.5 计算机视觉](#cv)
+    * [1.5.1 OpenCV](#opencv)
 
 
 
 <h2 id="cs">计算机科学</h2>
 
-### 1.1编程语言
+<h3 id="pl">1.1编程语言</h3>
 
-#### 1.1.1 C++
+<h4 id="cpp">1.1.1 C++</h4>
 
-* 《C++ Primer Plus》, *Stephen Prata*：[pdf [English](http://pan.baidu.com/s/1kUY8tPP), [中文](http://pan.baidu.com/s/1o7LBbqq)] 
+* 《C++ Primer Plus》, *Stephen Prata*：[pdf] ([English](http://pan.baidu.com/s/1kUY8tPP), [中文](http://pan.baidu.com/s/1o7LBbqq))
   * 适合从未接触过C++的编程初学者
   * 《C++ Primer Plus》是最著名的C++入门书籍之一，最新版（第六版）支持了C++11标准，该书全面而细致介绍了C++语言的特性，但该书篇幅较长，不适合逐页阅读，在读懂了书中的示例代码之后，可以尝试做课外习题，遇见不熟悉的知识点再返回相应部分阅读。
-* 《C++程序设计：基础、编程抽象与算法策略》（Programming Abstractions in C++）[pdf [English](http://pan.baidu.com/s/1nv8wgkD)]
+* 《C++程序设计：基础、编程抽象与算法策略》（Programming Abstractions in C++）[pdf] ([English](http://pan.baidu.com/s/1nv8wgkD))
 
 - 《C++程序设计原理与实践》（Programming：principles and practice using C++), *Bjarne Stroustrup*
 
-  [pdf [中文](http://pan.baidu.com/s/1dFEcenn)]
+  [pdf] ([中文](http://pan.baidu.com/s/1dFEcenn))
 
   * 适合从未接触过C++的编程初学者
   * 本书由C++之父Bjarne Stroustrup编写，书系统介绍的C++语言的特性，另一方面，该书不再纠结于繁复的C++语言特性，而是以一个项目作为线索，在完成该小项目的过程帮助读者学习C++语言的使用。
@@ -44,25 +51,34 @@
 
 - 《More Effective C++》（More Effective C++）
 
-#### 1.1.2 Python
+<h4 id="py">1.1.2 Python</h4>
 
 - 《简明python教程》（A Byte of Python）
 - 《Python核心编程》（Core Python Applications Programming）
 - 《Python Cookbook》
 
-##### Web
-
 * 《轻量级Django》（LightWeight Django）
 
-### 1.2 计算机视觉
+<h4 id="java">1.1.3 Java</h4>
 
-- **OpenCV**
-  - 《学习OpenCV》（Learning OpenCV）
+<h3 id="database">1.2 数据库</h3>
 
-### 1.3 机器学习
+<h3 id="ml">1.3 机器学习</h3>
 
-- **基础理论**
-  - [《机器学习》](#jump)
-  - 《统计学习方法》
-  - 《机器学习导论》（Introduction to Machine Learning）
+<h4 id="1.3.1">1.3.1 基础理论</h4>
 
+* 《机器学习》
+* 《统计学习方法》
+* 《机器学习导论》(Introduction to Machine Learning)
+* CS229 Machine Learning (*Stanford University*) [公开课] ([网易云课堂](http://open.163.com/special/opencourse/machinelearning.html),[Cousera](https://www.coursera.org/learn/machine-learning))
+
+<h4 id="dl">1.3.2 深度学习</h4>
+
+* 《Deep Learning》
+
+<h3 id="web">1.4 Web</h3>
+
+<h3 id="cv">1.5 计算机视觉</h3>
+
+<h4 id="opencv">OpenCV</h4>
+- 《学习OpenCV》（Learning OpenCV）
