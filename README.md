@@ -54,14 +54,11 @@
 
 * **C++**
 
-  * 《C++ Primer Plus》, *Stephen Prata*：[pdf] （
-
-    [中文]: http://pan.baidu.com/s/1o7LBbqq
-    [English]: http://pan.baidu.com/s/1kUY8tPP
-
-    )
+  * 《C++ Primer Plus》, *Stephen Prata*：[pdf [English](http://pan.baidu.com/s/1kUY8tPP), [中文](http://pan.baidu.com/s/1o7LBbqq)] 
 
     《C++ Primer Plus》是最著名的C++入门书籍之一，最新版（第六版）支持了C++11标准。
+
+  * 《C++程序设计：基础、编程抽象与算法策略》（Programming Abstractions in C++）[pdf [English](http://pan.baidu.com/s/1nv8wgkD)]
 
   ​
 
