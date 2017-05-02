@@ -14,13 +14,9 @@
 
 ## 目录
 
-<<<<<<< HEAD
 ### 1.计算机科学
-=======
-### [1.计算机科学](# 1.计算机科学)
->>>>>>> 5169f4338efe12a7f5b8d7d07b84cb834adcc983
 
-#### [1.1编程语言](# 1.1编程语言)
+#### [1.1编程语言](#1.1编程语言)
 
 - **C++**
   - [《C++ Primer Plus》](# C++ Primer Plus)
@@ -30,7 +26,7 @@
   - [《Effective C++》](Effective C++)
   - [《More Effective C++》](More Effective C++)
 - **Python**
-  - <span id = "jump">《简明python教程》（A Byte of Python）</span>
+  - 《简明python教程》（A Byte of Python）
   - 《Python核心编程》（Core Python Applications Programming）
   - 《Python Cookbook》
   - **Django**
