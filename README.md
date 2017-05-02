@@ -33,23 +33,31 @@
 
 <h4 id="cpp">1.1.1 C++</h4>
 
-* 《C++ Primer Plus》, *Stephen Prata*：[pdf] ([English](http://pan.baidu.com/s/1kUY8tPP), [中文](http://pan.baidu.com/s/1o7LBbqq))
-  * 适合从未接触过C++的编程初学者
-  * 《C++ Primer Plus》是最著名的C++入门书籍之一，最新版（第六版）支持了C++11标准，该书全面而细致介绍了C++语言的特性，但该书篇幅较长，不适合逐页阅读，在读懂了书中的示例代码之后，可以尝试做课外习题，遇见不熟悉的知识点再返回相应部分阅读。
+* 《C++ Primer Plus》, [pdf] ([English](http://pan.baidu.com/s/1kUY8tPP), [中文](http://pan.baidu.com/s/1o7LBbqq))
+
+  * 作者：*Stephen Prata*
+  * 入门级
+  * 最著名的C++入门书籍之一，全面而细致介绍了C++语言的特性，但该书篇幅较长，不适合逐页阅读，在读懂了书中的示例代码之后，可以尝试做课外习题，遇见不熟悉的知识点再返回相应部分阅读。
+
 * 《C++程序设计：基础、编程抽象与算法策略》（Programming Abstractions in C++）[pdf] ([English](http://pan.baidu.com/s/1nv8wgkD))
 
-- 《C++程序设计原理与实践》（Programming：principles and practice using C++), *Bjarne Stroustrup*
+  * 作者：*Eric S. Roberts* and *Julie Zelenski*
+  * 入门级
+  * 斯坦福的C++语言教材，内容简练，编排合理。
 
-  [pdf] ([中文](http://pan.baidu.com/s/1dFEcenn))
+* 《C++程序设计原理与实践》(Programming:principles and practice using C++), [pdf] ([中文](http://pan.baidu.com/s/1dFEcenn))
 
-  * 适合从未接触过C++的编程初学者
-  * 本书由C++之父Bjarne Stroustrup编写，书系统介绍的C++语言的特性，另一方面，该书不再纠结于繁复的C++语言特性，而是以一个项目作为线索，在完成该小项目的过程帮助读者学习C++语言的使用。
+  - 作者：*Bjarne Stroustrup*
 
-- 《C++编程思想》（Thinking in C++）](C++编程思想)
 
-- 《Effective C++》](Effective C++)
+  - 入门级
+  - 由C++之父Bjarne Stroustrup编写，系统介绍了C++语言的特性，并且不再纠结于繁复的C++语言特性，而是以一个项目作为线索，在完成该小项目的过程帮助读者学习C++语言的使用。
 
-- 《More Effective C++》（More Effective C++）
+* 《C++编程思想》（Thinking in C++）](C++编程思想)
+
+* 《Effective C++》](Effective C++)
+
+* 《More Effective C++》（More Effective C++）
 
 <h4 id="py">1.1.2 Python</h4>
 
