@@ -37,13 +37,13 @@
 
 <h4 id="cpp">1.1.1 C++</h4>
 
-* 《C++ Primer Plus》, [pdf] ([English](http://pan.baidu.com/s/1kUY8tPP), [中文](http://pan.baidu.com/s/1o7LBbqq))
+* **《C++ Primer Plus》**, [pdf] ([English](http://pan.baidu.com/s/1kUY8tPP), [中文](http://pan.baidu.com/s/1o7LBbqq))
 
-* 《C++程序设计：基础、编程抽象与算法策略》（Programming Abstractions in C++）[pdf] ([English](http://pan.baidu.com/s/1nv8wgkD))
+* **《C++程序设计：基础、编程抽象与算法策略》**（**Programming Abstractions in C++**）[pdf] ([English](http://pan.baidu.com/s/1nv8wgkD))
 
   > 斯坦福的C++编程教材，内容比较简练，适合初学者。
 
-* 《C++程序设计原理与实践》(Programming:principles and practice using C++), [pdf] ([中文](http://pan.baidu.com/s/1dFEcenn))
+* **《C++程序设计原理与实践》**(**Programming:principles and practice using C++**), [pdf] ([中文](http://pan.baidu.com/s/1dFEcenn))
 
   > C++之父的著作，全书不纠结于繁复的C++语言特性，借助对代码的解析和小项目的逐步完成而帮助初学者学习C++的使用，适合初学者。
 
