@@ -28,7 +28,10 @@
   * [1.5 计算机视觉](#cv)
     * [1.5.1 OpenCV](#opencv)
   * [1.6 数据科学](#datascience)
+* [2.数学](#math)
 
+
+  * [2.1 统计学](#statics)
 
 
 <h2 id="cs">计算机科学</h2>
@@ -92,13 +95,21 @@
 
 <h3 id="cv">1.5 计算机视觉</h3>
 
-<h4 id="opencv">1.5.1OpenCV</h4>
-- **《学习OpenCV》（Learning OpenCV）**[pdf] ([中文](http://pan.baidu.com/s/1nvgBLAp))
-- **OpenCV中文网 **[[网址](http://wiki.opencv.org.cn/index.php/%E9%A6%96%E9%A1%B5)] 
+<h4 id="opencv">1.5.1 OpenCV</h4>
+
+* **《学习OpenCV》（Learning OpenCV）**[pdf] ([中文](http://pan.baidu.com/s/1nvgBLAp))
+
+- **OpenCV中文网**  [[网址](http://wiki.opencv.org.cn/index.php/%E9%A6%96%E9%A1%B5)] 
 
 <h4 id="deepvision">1.5.2 深度视觉</h4>
 
 * **CS231n Convolutional Neural Networks for Visual Recognition** *(Stanford University)* [[课程网站](http://cs231n.stanford.edu/)]
+
+
+
+<h2 id="math">2. 数学</h2>
+
+<h3 id="statics">2.1 统计学</h3>
 
 
 
