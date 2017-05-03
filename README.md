@@ -19,11 +19,15 @@
     * [1.1.1 C++](#cpp)
     * [1.1.2 Python](#py)
     * [1.1.3 Java](#java)
+    * [1.1.4 C](#c)
+    * [1.1.5 PHP](#php)
   * [1.2 数据库](#database)
   * [1.3 机器学习](#ml)
   * [1.4 Web](#web)
+    * [1.4.1 Web with Python](#pyweb)
   * [1.5 计算机视觉](#cv)
     * [1.5.1 OpenCV](#opencv)
+  * [1.6 数据科学](#datascience)
 
 
 
@@ -35,39 +39,33 @@
 
 * 《C++ Primer Plus》, [pdf] ([English](http://pan.baidu.com/s/1kUY8tPP), [中文](http://pan.baidu.com/s/1o7LBbqq))
 
-  * 作者：*Stephen Prata*
-  * 入门级
-  * 最著名的C++入门书籍之一，全面而细致介绍了C++语言的特性，但该书篇幅较长，不适合逐页阅读，在读懂了书中的示例代码之后，可以尝试做课外习题，遇见不熟悉的知识点再返回相应部分阅读。
-
 * 《C++程序设计：基础、编程抽象与算法策略》（Programming Abstractions in C++）[pdf] ([English](http://pan.baidu.com/s/1nv8wgkD))
 
-  * 作者：*Eric S. Roberts* and *Julie Zelenski*
-  * 入门级
-  * 斯坦福的C++语言教材，内容简练，编排合理。
+  > 斯坦福的C++编程教材，内容比较简练，适合初学者。
 
 * 《C++程序设计原理与实践》(Programming:principles and practice using C++), [pdf] ([中文](http://pan.baidu.com/s/1dFEcenn))
 
-  - 作者：*Bjarne Stroustrup*
+  > C++之父的著作，全书不纠结于繁复的C++语言特性，借助对代码的解析和小项目的逐步完成而帮助初学者学习C++的使用，适合初学者。
 
+* 《C++编程思想》（Thinking in C++）[pdf] ([中文第二版](http://pan.baidu.com/s/1milx7TI), [English 2nd edition](http://pan.baidu.com/s/1o8fTPFW))
 
-  - 入门级
-  - 由C++之父Bjarne Stroustrup编写，系统介绍了C++语言的特性，并且不再纠结于繁复的C++语言特性，而是以一个项目作为线索，在完成该小项目的过程帮助读者学习C++语言的使用。
+* 《Effective C++》(Effective C++) [pdf]  ([中文第三版](http://pan.baidu.com/s/1nvr1g4D), [English 3rd edition](http://pan.baidu.com/s/1bpw5lfx))
 
-* 《C++编程思想》（Thinking in C++）](C++编程思想)
+  > 全书围绕数十个C++高效编程的准则，因为面对的问题具体且可复制，所以便于在实践中学习，适合C++的进阶学习者。
 
-* 《Effective C++》](Effective C++)
-
-* 《More Effective C++》（More Effective C++）
+* 《More Effective C++》（More Effective C++）[pdf] ([中文](http://pan.baidu.com/s/1hrFHFwS))
 
 <h4 id="py">1.1.2 Python</h4>
 
 - 《简明python教程》（A Byte of Python）
-- 《Python核心编程》（Core Python Applications Programming）
+- 《Python核心编程》（Core Python Applications Programming）[pdf] ([中文](http://pan.baidu.com/s/1hrRSQsk))
 - 《Python Cookbook》
 
-* 《轻量级Django》（LightWeight Django）
-
 <h4 id="java">1.1.3 Java</h4>
+
+<h4 id="c">1.1.4 C</h4>
+
+<h4 id="php">1.1.5 PHP</h4>
 
 <h3 id="database">1.2 数据库</h3>
 
@@ -75,18 +73,30 @@
 
 <h4 id="1.3.1">1.3.1 基础理论</h4>
 
-* 《机器学习》
-* 《统计学习方法》
-* 《机器学习导论》(Introduction to Machine Learning)
+* 《机器学习》[pdf] ([中文](http://pan.baidu.com/s/1gfOhwQJ))
+* 《统计学习方法》[pdf ] ([中文](http://pan.baidu.com/s/1dEJl7Vz))
+* 《机器学习导论》(Introduction to Machine Learning) [pdf] ([中文](http://pan.baidu.com/s/1hrAXTbu))
 * CS229 Machine Learning (*Stanford University*) [公开课] ([网易云课堂](http://open.163.com/special/opencourse/machinelearning.html),[Cousera](https://www.coursera.org/learn/machine-learning))
 
 <h4 id="dl">1.3.2 深度学习</h4>
 
-* 《Deep Learning》
+* 《Deep Learning》 [pdf] ([English](http://pan.baidu.com/s/1cjGcJ8))
+
+  > MIT的深度学习教材，深度学习三巨头之一 Yoshua Bengio参与编写，由其学生、GAN的提出者Ian Godfellow主编。
 
 <h3 id="web">1.4 Web</h3>
 
+<h4 id="pyweb">1.4.1 Web with Python</h4>
+
+* 《轻量级Django》（LightWeight Django）
+
 <h3 id="cv">1.5 计算机视觉</h3>
 
-<h4 id="opencv">OpenCV</h4>
-- 《学习OpenCV》（Learning OpenCV）
+<h4 id="opencv">1.5.1OpenCV</h4>
+- 《学习OpenCV》（Learning OpenCV）[pdf] ([中文](http://pan.baidu.com/s/1nvgBLAp))
+- OpenCV中文网 [[网址](http://wiki.opencv.org.cn/index.php/%E9%A6%96%E9%A1%B5)] 
+
+
+
+## 详细介绍
+
