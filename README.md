@@ -74,7 +74,7 @@
 
 <h3 id="ml">1.3 机器学习</h3>
 
-<h4 id="1.3.1">1.3.1 基础理论</h4>
+<h4 id="1.3.1">1.3.1 基础理论</h4> 
 
 * **《机器学习》[pdf] **([中文](http://pan.baidu.com/s/1gfOhwQJ))
 * **《统计学习方法》[pdf ]** ([中文](http://pan.baidu.com/s/1dEJl7Vz))
