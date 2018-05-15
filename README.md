@@ -58,6 +58,10 @@
 
 * **《More Effective C++》（More Effective C++）**[pdf] ([中文](http://pan.baidu.com/s/1hrFHFwS))
 
+* [CppReference](http://en.cppreference.com/w/)
+
+> 一个cpp的apic查询网站，提供了对其库函数的说明，平时可以当作字典使用。
+
 <h4 id="py">1.1.2 Python</h4>
 
 - **《简明python教程》（A Byte of Python）**
@@ -81,11 +85,13 @@
 * **《机器学习导论》(Introduction to Machine Learning)** [pdf] ([中文](http://pan.baidu.com/s/1hrAXTbu))
 * **CS229 Machine Learning** (*Stanford University*) [公开课] ([网易云课堂](http://open.163.com/special/opencourse/machinelearning.html),[Cousera](https://www.coursera.org/learn/machine-learning))
 
-<h4 id="dl">1.3.2 深度学习</h4>
+<h4 id="dl">1.3.2 深度学习理论</h4>
 
 * **《Deep Learning》** [pdf] ([English](http://pan.baidu.com/s/1cjGcJ8))
 
   > MIT的深度学习教材，深度学习三巨头之一 Yoshua Bengio参与编写，由其学生、GAN的提出者Ian Godfellow主编。
+
+<h4 id="dl">1.3.3 深度学习框架</h4>
 
 <h3 id="web">1.4 Web</h3>
 
@@ -104,7 +110,6 @@
 <h4 id="deepvision">1.5.2 深度视觉</h4>
 
 * **CS231n Convolutional Neural Networks for Visual Recognition** *(Stanford University)* [[课程网站](http://cs231n.stanford.edu/)]
-
 
 
 <h2 id="math">2. 数学</h2>
